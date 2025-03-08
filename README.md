@@ -1,6 +1,6 @@
 # All-about-R
-Step by step guide
-Reasons for using R
+# Step by step guide
+# Reasons for using R
 --------------------
 *Language for Data Science
 *Free and open source
