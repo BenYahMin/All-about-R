@@ -2,10 +2,10 @@
 # Step by step guide
 # Reasons for using R
 --------------------
-## *Language for Data Science
-## *Free and open source
-## *Free packages added to R-9000+
-## *A great community
+*Language for Data Science
+*Free and open source
+*Free packages added to R-9000+
+*A great community
 *******
 # R SETUP
 *******
