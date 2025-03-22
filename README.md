@@ -7,7 +7,7 @@ Free and open source<br>
 Free packages added to R-9000+<br>
 A great community
 *******
-# R SETUP
+## R SETUP
 *******
 Search R software and download for prefered OS<br>
 OR <br>
