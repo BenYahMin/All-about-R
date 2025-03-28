@@ -1,4 +1,4 @@
-# Step by step guide
+# Step guide
 ## Reasons for using R
 --------------------
 Language for Data Science<br>
