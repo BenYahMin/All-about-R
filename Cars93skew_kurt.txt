@@ -1,0 +1,3 @@
+Statistic	Values
+Skewness	2.0009063996459
+Kurtosis	9.98160274962165
