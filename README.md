@@ -30,3 +30,5 @@ Choose the appropriate installation link for your operating system below, or vis
 3. Follow the system installation steps to complete the setup.
 
 > 💡 **Next Step:** Once R is installed, it is highly recommended to download [RStudio Desktop](https://posit.co/download/rstudio-desktop/), the most popular code editor for working with R comfortably. You can also use Visual Studio Code with the necessary extensions installed.
+>
+> I have uploaded some of my R codes i worked during my R classes in the R files folder in this repo
